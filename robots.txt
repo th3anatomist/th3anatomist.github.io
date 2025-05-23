@@ -1,3 +1,9 @@
-# https://www.robotstxt.org/robotstxt.html
+# *
 User-agent: *
-Disallow:
+Allow: /
+
+# Host
+Host: https://anatomi.st
+
+# Sitemaps
+Sitemap: https://anatomi.st/sitemap.xml
