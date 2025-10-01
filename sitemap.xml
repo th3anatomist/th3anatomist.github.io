@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url><loc>https://anatomi.st/blog</loc><lastmod>2025-06-27T14:43:36.940Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://anatomi.st</loc><lastmod>2025-06-27T14:43:36.940Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://anatomi.st/blog</loc><lastmod>2025-10-01T16:47:46.526Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://anatomi.st</loc><lastmod>2025-10-01T16:47:46.526Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://anatomi.st/blog/2024_11_07_swaylend_shutdown</loc><lastmod>2024-11-07T00:00:00.000Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://anatomi.st/blog/2025_05_14_ethereum_attackathon</loc><lastmod>2025-05-14T00:00:00.000Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://anatomi.st/blog/2025_06_27_pwning_solana_for_fun_and_profit</loc><lastmod>2025-06-27T00:00:00.000Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
